@@ -1,0 +1,8 @@
+.dockerignore
+.envrc
+.git
+.gitignore
+.gitlab-ci.yml
+Dockerfile
+README.md
+b2_api_key
